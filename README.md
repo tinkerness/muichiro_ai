@@ -3,6 +3,11 @@
 
 This project answers your questions on the demon slayer series based on the data in the pdf file given to it. 
 
+## Tech Stack
+- Python
+- Gemini-1.5-flash
+- Streamlit
+
 ## How to run the project
 
 ### Setup environment:
