@@ -1,0 +1,12 @@
+#streamlit
+#langchain_google_genai 
+#json
+#requests
+pathway
+sentence-transformers
+transformers
+torch
+PyMuPDF
+fitz
+numpy
+pathway[xpack-llm]
